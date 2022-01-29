@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap");
 
 :root {
-  --orange: #f38d08;
+  --orange: #1cf308;
 }
 
 * {
@@ -40,6 +40,7 @@ section {
 .heading span {
   font-size: 3.5rem;
   background: rgba(255, 165, 0, 0.2);
+
   color: var(--orange);
   border-radius: 0.5rem;
   padding: 0.2rem 1rem;
